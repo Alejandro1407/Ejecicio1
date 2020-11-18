@@ -11,8 +11,8 @@ function numerosPrimos(){
             numeros.push(i);
         }
     }
-    let f = document.getElementById("result");
-    f.innerHTML(numeros);
+
+    alert("Los numeros son:" + numeros)
 }
 
 
